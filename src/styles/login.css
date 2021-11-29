@@ -1,0 +1,51 @@
+.divLogin{
+    width: 30%;
+    margin: 100px auto;
+    background-color: rgba(50, 50, 50, 0.4);
+    text-align: center;
+    padding: 30px;
+    border-radius: 15px;
+}
+.divLogin h1{
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+.divLogin form .dInp input{
+    display: block;
+    width: 100%;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.divLogin form .dInp input:hover{
+    background-color: rgb(235, 235, 235);
+}
+.dInp{
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+}
+.btnLog{
+    margin: 30px 0px 10px 0px;
+    background-color: rgb(255, 21, 60);
+    padding: 10px 25px;
+    border-radius: 15px;
+    transition: all .2s;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.btnLog:hover{
+    background-color: rgb(97, 0, 16);
+}
+
+
+@media(max-width:550px){
+    .divLogin{
+        width: 90%;
+    }
+}
+@media(max-width:850px){
+    .divLogin{
+        width: 70%;
+    }
+}

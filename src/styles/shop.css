@@ -1,0 +1,24 @@
+.divPics{
+    width: 80%;
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+}
+.divPics img{
+    width: 100%;
+    padding: 10px 20px;
+    transition: all .5s;
+}
+.divPics img:hover{
+    transform: scale(1.05,1.05);
+}
+
+@media(max-width:550px){
+    .divPics{
+        width: 100%;
+        grid-template-columns: 50% 50%;
+    }
+    .divPics img{
+        padding: 10px;
+    }
+}
