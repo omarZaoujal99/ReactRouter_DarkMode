@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/omarZaoujal99/ReactRouter_DarkMode.git/static/css/main.96cffebb.chunk.css",
+    "main.js": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/main.c88b4495.chunk.js",
+    "main.js.map": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/main.c88b4495.chunk.js.map",
+    "runtime-main.js": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/runtime-main.f5230228.js",
+    "runtime-main.js.map": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/runtime-main.f5230228.js.map",
+    "static/js/2.9c9e3173.chunk.js": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/2.9c9e3173.chunk.js",
+    "static/js/2.9c9e3173.chunk.js.map": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/2.9c9e3173.chunk.js.map",
+    "index.html": "/omarZaoujal99/ReactRouter_DarkMode.git/index.html",
+    "static/css/main.96cffebb.chunk.css.map": "/omarZaoujal99/ReactRouter_DarkMode.git/static/css/main.96cffebb.chunk.css.map",
+    "static/js/2.9c9e3173.chunk.js.LICENSE.txt": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/2.9c9e3173.chunk.js.LICENSE.txt",
+    "static/media/avocadoOil.1ab4798e.jpg": "/omarZaoujal99/ReactRouter_DarkMode.git/static/media/avocadoOil.1ab4798e.jpg",
+    "static/media/backPack.34a38dfb.jpg": "/omarZaoujal99/ReactRouter_DarkMode.git/static/media/backPack.34a38dfb.jpg",
+    "static/media/petCare.566d9d40.jpg": "/omarZaoujal99/ReactRouter_DarkMode.git/static/media/petCare.566d9d40.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5230228.js",
+    "static/js/2.9c9e3173.chunk.js",
+    "static/css/main.96cffebb.chunk.css",
+    "static/js/main.c88b4495.chunk.js"
+  ]
+}
