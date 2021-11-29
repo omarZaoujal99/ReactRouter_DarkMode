@@ -22,6 +22,9 @@
 .nav-link:hover{
     color: rgb(255, 21, 60);
 }
+.active{
+    color: rgb(255, 21, 60);
+}
 
 @media(max-width:550px){
     .nav-link{

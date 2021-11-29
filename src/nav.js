@@ -1,15 +1,17 @@
 import React from 'react';
-import {Link, Outlet} from 'react-router-dom';
+import {NavLink, Outlet, useParams} from 'react-router-dom';
 import "./styles/nav.css";
 
 export const Nav = () => {
+    let params = useParams();
+    console.log(params);
     return (
         <>
         <nav className="navigation">
-            <Link to="/" className="nav-link">Home</Link>
-            <Link to="/shop" className="nav-link">Shop</Link>
-            <Link to="/about" className="nav-link">About</Link>
-            <Link to="/login" className="nav-link">Login</Link>
+            <NavLink to="/" activeClassName="active" className="nav-link">Home</NavLink>
+            <NavLink to="/shop" activeClassName="active" className="nav-link">Shop</NavLink>
+            <NavLink to="/about" activeClassName="active" className="nav-link">About</NavLink>
+            <NavLink to="/login" activeClassName="active" className="nav-link">Login</NavLink>
         </nav>
         <Outlet />
         </>
