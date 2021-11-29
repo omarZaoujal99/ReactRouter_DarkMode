@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/ReactRouter_DarkMode/static/css/main.96cffebb.chunk.css",
-    "main.js": "/ReactRouter_DarkMode/static/js/main.c88b4495.chunk.js",
-    "main.js.map": "/ReactRouter_DarkMode/static/js/main.c88b4495.chunk.js.map",
+    "main.js": "/ReactRouter_DarkMode/static/js/main.281f89b1.chunk.js",
+    "main.js.map": "/ReactRouter_DarkMode/static/js/main.281f89b1.chunk.js.map",
     "runtime-main.js": "/ReactRouter_DarkMode/static/js/runtime-main.f539d3f4.js",
     "runtime-main.js.map": "/ReactRouter_DarkMode/static/js/runtime-main.f539d3f4.js.map",
-    "static/js/2.9c9e3173.chunk.js": "/ReactRouter_DarkMode/static/js/2.9c9e3173.chunk.js",
-    "static/js/2.9c9e3173.chunk.js.map": "/ReactRouter_DarkMode/static/js/2.9c9e3173.chunk.js.map",
+    "static/js/2.d784efad.chunk.js": "/ReactRouter_DarkMode/static/js/2.d784efad.chunk.js",
+    "static/js/2.d784efad.chunk.js.map": "/ReactRouter_DarkMode/static/js/2.d784efad.chunk.js.map",
     "index.html": "/ReactRouter_DarkMode/index.html",
     "static/css/main.96cffebb.chunk.css.map": "/ReactRouter_DarkMode/static/css/main.96cffebb.chunk.css.map",
-    "static/js/2.9c9e3173.chunk.js.LICENSE.txt": "/ReactRouter_DarkMode/static/js/2.9c9e3173.chunk.js.LICENSE.txt",
+    "static/js/2.d784efad.chunk.js.LICENSE.txt": "/ReactRouter_DarkMode/static/js/2.d784efad.chunk.js.LICENSE.txt",
     "static/media/avocadoOil.1ab4798e.jpg": "/ReactRouter_DarkMode/static/media/avocadoOil.1ab4798e.jpg",
     "static/media/backPack.34a38dfb.jpg": "/ReactRouter_DarkMode/static/media/backPack.34a38dfb.jpg",
     "static/media/petCare.566d9d40.jpg": "/ReactRouter_DarkMode/static/media/petCare.566d9d40.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f539d3f4.js",
-    "static/js/2.9c9e3173.chunk.js",
+    "static/js/2.d784efad.chunk.js",
     "static/css/main.96cffebb.chunk.css",
-    "static/js/main.c88b4495.chunk.js"
+    "static/js/main.281f89b1.chunk.js"
   ]
 }
