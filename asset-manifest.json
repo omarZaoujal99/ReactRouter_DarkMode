@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/omarZaoujal99/ReactRouter_DarkMode.git/static/css/main.96cffebb.chunk.css",
-    "main.js": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/main.c88b4495.chunk.js",
-    "main.js.map": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/main.c88b4495.chunk.js.map",
-    "runtime-main.js": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/runtime-main.f5230228.js",
-    "runtime-main.js.map": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/runtime-main.f5230228.js.map",
-    "static/js/2.9c9e3173.chunk.js": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/2.9c9e3173.chunk.js",
-    "static/js/2.9c9e3173.chunk.js.map": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/2.9c9e3173.chunk.js.map",
-    "index.html": "/omarZaoujal99/ReactRouter_DarkMode.git/index.html",
-    "static/css/main.96cffebb.chunk.css.map": "/omarZaoujal99/ReactRouter_DarkMode.git/static/css/main.96cffebb.chunk.css.map",
-    "static/js/2.9c9e3173.chunk.js.LICENSE.txt": "/omarZaoujal99/ReactRouter_DarkMode.git/static/js/2.9c9e3173.chunk.js.LICENSE.txt",
-    "static/media/avocadoOil.1ab4798e.jpg": "/omarZaoujal99/ReactRouter_DarkMode.git/static/media/avocadoOil.1ab4798e.jpg",
-    "static/media/backPack.34a38dfb.jpg": "/omarZaoujal99/ReactRouter_DarkMode.git/static/media/backPack.34a38dfb.jpg",
-    "static/media/petCare.566d9d40.jpg": "/omarZaoujal99/ReactRouter_DarkMode.git/static/media/petCare.566d9d40.jpg"
+    "main.css": "/gh%20repo%20clone%20omarZaoujal99/ReactRouter_DarkMode/static/css/main.96cffebb.chunk.css",
+    "main.js": "/gh%20repo%20clone%20omarZaoujal99/ReactRouter_DarkMode/static/js/main.c88b4495.chunk.js",
+    "main.js.map": "/gh%20repo%20clone%20omarZaoujal99/ReactRouter_DarkMode/static/js/main.c88b4495.chunk.js.map",
+    "runtime-main.js": "/gh%20repo%20clone%20omarZaoujal99/ReactRouter_DarkMode/static/js/runtime-main.42ba3d53.js",
+    "runtime-main.js.map": "/gh%20repo%20clone%20omarZaoujal99/ReactRouter_DarkMode/static/js/runtime-main.42ba3d53.js.map",
+    "static/js/2.9c9e3173.chunk.js": "/gh%20repo%20clone%20omarZaoujal99/ReactRouter_DarkMode/static/js/2.9c9e3173.chunk.js",
+    "static/js/2.9c9e3173.chunk.js.map": "/gh%20repo%20clone%20omarZaoujal99/ReactRouter_DarkMode/static/js/2.9c9e3173.chunk.js.map",
+    "index.html": "/gh%20repo%20clone%20omarZaoujal99/ReactRouter_DarkMode/index.html",
+    "static/css/main.96cffebb.chunk.css.map": "/gh%20repo%20clone%20omarZaoujal99/ReactRouter_DarkMode/static/css/main.96cffebb.chunk.css.map",
+    "static/js/2.9c9e3173.chunk.js.LICENSE.txt": "/gh%20repo%20clone%20omarZaoujal99/ReactRouter_DarkMode/static/js/2.9c9e3173.chunk.js.LICENSE.txt",
+    "static/media/avocadoOil.1ab4798e.jpg": "/gh%20repo%20clone%20omarZaoujal99/ReactRouter_DarkMode/static/media/avocadoOil.1ab4798e.jpg",
+    "static/media/backPack.34a38dfb.jpg": "/gh%20repo%20clone%20omarZaoujal99/ReactRouter_DarkMode/static/media/backPack.34a38dfb.jpg",
+    "static/media/petCare.566d9d40.jpg": "/gh%20repo%20clone%20omarZaoujal99/ReactRouter_DarkMode/static/media/petCare.566d9d40.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5230228.js",
+    "static/js/runtime-main.42ba3d53.js",
     "static/js/2.9c9e3173.chunk.js",
     "static/css/main.96cffebb.chunk.css",
     "static/js/main.c88b4495.chunk.js"
